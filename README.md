@@ -20,7 +20,7 @@
 
 #### 联系方式
 
-[![Email Badge](https://img.shields.io/badge/-Email-ff001e?style=for-the-badge&labelColor=black&logo=gmail&logoColor=ffffff)](mailto:public.host@outlook.com) [![Ko-fi Badge](https://img.shields.io/badge/-Support-00aeff?style=for-the-badge&labelColor=000000&logo=kofi&logoColor=ffffff)](https://ko-fi.com/N4N7EE1I4) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Follymaster&countColor=%232ccce4)
+[![Email Badge](https://img.shields.io/badge/-Email-ff001e?style=for-the-badge&labelColor=black&logo=gmail&logoColor=ffffff)](mailto:freelingdeveloper@gmail.com) [![Ko-fi Badge](https://img.shields.io/badge/-Support-00aeff?style=for-the-badge&labelColor=000000&logo=kofi&logoColor=ffffff)](#) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Follymaster&countColor=%232ccce4)
 
 <br>
 
