@@ -25,6 +25,6 @@
 
 <br>
 
-#### 统计
+#### 我的统计数据
 
 ![OllyMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollymaster&count_private=true&theme=tokyonight&hide=contribs,prs)
