@@ -14,7 +14,7 @@
 
 #### 我擅长的程序设计语言
 
-![C# Badge](https://img.shields.io/badge/-csharp-0cc206?style=for-the-badge&labelColor=black&logo=csharp&logoColor=0cc206) ![Python Badge](https://img.shields.io/badge/-python-0091ff?style=for-the-badge&labelColor=black&logo=python&logoColor=0091ff) ![Swift Badge](https://img.shields.io/badge/-swift-ff8c00?style=for-the-badge&labelColor=black&logo=swift&logoColor=#ff8c00) ![Flutter Badge](https://img.shields.io/badge/-flutter-00c3ff?style=for-the-badge&labelColor=black&logo=flutter&logoColor=00c3ff)
+[![C# Badge](https://img.shields.io/badge/-csharp-0cc206?style=for-the-badge&labelColor=black&logo=csharp&logoColor=0cc206)](#) [![Python Badge](https://img.shields.io/badge/-python-0091ff?style=for-the-badge&labelColor=black&logo=python&logoColor=0091ff)](#) [![Swift Badge](https://img.shields.io/badge/-swift-ff8c00?style=for-the-badge&labelColor=black&logo=swift&logoColor=#ff8c00)](#) [![Flutter Badge](https://img.shields.io/badge/-flutter-00c3ff?style=for-the-badge&labelColor=black&logo=flutter&logoColor=00c3ff)](#)
 
 <br>
 
