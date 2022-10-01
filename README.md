@@ -26,4 +26,4 @@
 
 #### 我的统计数据
 
-![LinXiaoRong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyxiaorong&count_private=true&theme=tokyonight&hide=contribs,prs)
+![LinXiaoLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyxiaolong&count_private=true&theme=tokyonight&hide=contribs,prs)
